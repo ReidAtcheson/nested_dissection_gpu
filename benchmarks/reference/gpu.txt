@@ -1,0 +1,2 @@
+name, driver_version, memory.total [MiB], power.limit [W]
+Tesla T4, 580.173.02, 15360 MiB, 70.00 W

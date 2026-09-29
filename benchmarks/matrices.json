@@ -1,0 +1,62 @@
+[
+  {
+    "name": "HB/bcsstk17",
+    "n": 10974,
+    "kind": "pressure-vessel stiffness",
+    "sha256": "70657d5cab62f2947e861842013aff43e380bd37205701978016e30412d054e6"
+  },
+  {
+    "name": "Boeing/bcsstk36",
+    "n": 23052,
+    "kind": "shock-absorber stiffness",
+    "sha256": "5604590a92eb3f02acec595c144429a20efbd943ab4eaa18bfc11beb91dc3da2"
+  },
+  {
+    "name": "Williams/cant",
+    "n": 62451,
+    "kind": "finite-element cantilever",
+    "sha256": "58c63a4a0c446c4b57dd3146b0c4dc1bd8416dc4eee2dfbe7dd45cfb3e7181d7"
+  },
+  {
+    "name": "Rothberg/cfd1",
+    "n": 70656,
+    "kind": "CFD pressure",
+    "sha256": "8d12760f2fefd53743ea34c85c8c854b46f239dd8536005c916716ce09892cca"
+  },
+  {
+    "name": "Schmid/thermal1",
+    "n": 82654,
+    "kind": "unstructured thermal FEM",
+    "sha256": "4ebbb19456524192a32195108954a4442db45833088e1c016a5ebc05b7d0a444"
+  },
+  {
+    "name": "GHS_psdef/apache1",
+    "n": 80800,
+    "kind": "3D finite difference",
+    "sha256": "3d9b1c6f106c7ca4b5a6f75f9a103942cef57da89430fe2e0c065ad2cd42ea91"
+  },
+  {
+    "name": "Boeing/pwtk",
+    "n": 217918,
+    "kind": "pressurized wind-tunnel stiffness",
+    "sha256": "46e4f709fae9d70c148e1b01ebf55cc63d4a6d9ecc8c5331d2dc0f936a64eb99"
+  },
+  {
+    "name": "GHS_psdef/hood",
+    "n": 220542,
+    "kind": "structural mechanics",
+    "sha256": "91340975a743913681f8c1cfb80fbdc96ba557761715440fb15f975b642c3c3f"
+  },
+  {
+    "name": "GHS_psdef/crankseg_2",
+    "n": 63838,
+    "kind": "dense structural mechanics",
+    "sha256": "8c2312fea2e728f7febc8ecf71e68ffe27785947777e54c6c82022bef2697adf"
+  },
+  {
+    "name": "GHS_psdef/apache2",
+    "n": 715176,
+    "kind": "larger 3D finite difference",
+    "sha256": "e2c27975b8ec0e26eb6bf7bdd4ff09e052b7612850b651b5a5f20c1f862d1721"
+  }
+]
